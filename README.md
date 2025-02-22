@@ -1,17 +1,19 @@
-# Cloud-Storage-PHP
-This is my cloud_storage Mysql Database Php
 # Cloud Storage PHP
 
-![Cloud Storage Logo](logo.png)
+![PHP Logo](https://www.php.net/images/logos/new-php-logo.svg)
 
-## About  
-This is a fully functional cloud storage web application built using PHP and MySQL. Users can:  
-✅ Register with a profile picture  
-✅ Upload, organize, and manage files  
+This is a cloud storage web application built with PHP, MySQL, HTML, JavaScript, and CSS. Users can:
+- Register and log in with profile pictures.
+- Upload, organize, and manage files and folders.
+- Share folders using generated links.
+
+## Features
+✅ User authentication with profile pictures  
 ✅ Create and delete folders  
-✅ Share folders with a generated link  
+✅ Upload and manage files  
+✅ Share folders with a link  
 
-## Installation  
-1. Clone the repository:  
+## Installation
+1. Clone the repository:
    ```sh
    git clone https://github.com/ChanCrits/Cloud-Storage-PHP.git
